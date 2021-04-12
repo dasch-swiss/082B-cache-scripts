@@ -1,0 +1,949 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knora xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" shortcode="082B" default-ontology="cache">
+  <permissions id="res-default">
+    <allow group="UnknownUser">RV</allow>
+    <allow group="KnownUser">V</allow>
+    <allow group="Creator">CR</allow>
+    <allow group="ProjectAdmin">CR</allow>
+  </permissions>
+  <permissions id="res-restricted">
+    <allow group="KnownUser">V</allow>
+    <allow group="Creator">CR</allow>
+    <allow group="ProjectAdmin">CR</allow>
+  </permissions>
+  <permissions id="prop-default">
+    <allow group="UnknownUser">V</allow>
+    <allow group="KnownUser">V</allow>
+    <allow group="Creator">CR</allow>
+    <allow group="ProjectAdmin">CR</allow>
+  </permissions>
+  <permissions id="prop-restricted">
+    <allow group="KnownUser">V</allow>
+    <allow group="Creator">CR</allow>
+    <allow group="ProjectAdmin">CR</allow>
+  </permissions>
+  <resource label="About Cache" restype=":Kapitel" id="kapitel_obj_0" permissions="res-default">
+    <bitstream>cache_GegenWissen_Epilog_Aboutcache_20201.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">About Cache</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Niki Rhyner, Max Stadler, Nils Güttler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/epilog/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Alltag" restype=":Kapitel" id="kapitel_obj_1" permissions="res-default">
+    <bitstream>cache_GegenWissen_NoFuture_Alltag_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Alltag</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Niki Rhyner</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-13</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/nofuture/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Läden" restype=":Kapitel" id="kapitel_obj_2" permissions="res-default">
+    <bitstream>cache_GegenWissen_Selbermachen_Laeden_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Läden</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Max Stadler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-30</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/selbermachen/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Unternehmer" restype=":Kapitel" id="kapitel_obj_3" permissions="res-default">
+    <bitstream>cache_GegenWissen_Selbermachen_Unternehmer_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Unternehmer</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Max Stadler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-10</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/selbermachen/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Kanäle" restype=":Kapitel" id="kapitel_obj_4" permissions="res-default">
+    <bitstream>cache_GegenWissen_Selbermachen_Kanäle_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Kanäle</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Max Stadler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/selbermachen/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Bewusstsein" restype=":Kapitel" id="kapitel_obj_5" permissions="res-default">
+    <bitstream>cache_GegenWissen_Selbermachen_Bewusstsein_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Bewusstsein</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Martina Schlünder, Nils Güttler, Anna Maria Schmidt, Alexander von Schwerin</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-17</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/selbermachen/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Feministische Natur" restype=":Kapitel" id="kapitel_obj_6" permissions="res-default">
+    <bitstream>cache_GegenWissen_Naturpolitiken_FeministischeNatur_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Feministische Natur</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Anna Maria Schmidt, Susanne Schmidt</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/naturpolitiken/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Prick Art" restype=":Kapitel" id="kapitel_obj_7" permissions="res-default">
+    <bitstream>cache_GegenWissen_Kopflos_PrickArt_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Prick Art</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Susanne Schmidt</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-27</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/kopflos/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Rückbesinnung" restype=":Kapitel" id="kapitel_obj_8" permissions="res-default">
+    <bitstream>cache_GegenWissen_NoFuture_Rueckbesinnung_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Rückbesinnung</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Alexander von Schwerin</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-24</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/nofuture/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Krise der Vernunft" restype=":Kapitel" id="kapitel_obj_9" permissions="res-default">
+    <bitstream>cache_GegenWissen_Kopflos_KrisederVernunft_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Krise der Vernunft</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Niki Rhyner, Mathias Grote, Max Stadler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/kopflos/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Dorf" restype=":Kapitel" id="kapitel_obj_10" permissions="res-default">
+    <bitstream>cache_GegenWissen_NoFuture_Dorf_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Dorf</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Niki Rhyner</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-17</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/nofuture/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Apokalypse" restype=":Kapitel" id="kapitel_obj_11" permissions="res-default">
+    <bitstream>cache_GegenWissen_NoFuture_Apokalypse_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Apokalypse</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Max Stadler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-13</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/nofuture/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Biotopia" restype=":Kapitel" id="kapitel_obj_12" permissions="res-default">
+    <bitstream>cache_GegenWissen_Naturpolitiken_Biotopia_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Biotopia</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Anna Maria Schmidt, Mathias Grote, Alexander von Schwerin</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-30</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/naturpolitiken/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Beton" restype=":Kapitel" id="kapitel_obj_13" permissions="res-default">
+    <bitstream>cache_GegenWissen_Naturpolitiken_Beton_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Beton</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Tobias Scheidegger, Nadine Zberg</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/naturpolitiken/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Differenz" restype=":Kapitel" id="kapitel_obj_14" permissions="res-default">
+    <bitstream>cache_GegenWissen_Naturpolitiken_Differenz_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Differenz</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Monika Wulz, Max Stadler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-10-01</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/naturpolitiken/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Symbiosen" restype=":Kapitel" id="kapitel_obj_15" permissions="res-default">
+    <bitstream>cache_GegenWissen_Kopflos_Symbiosen_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Symbiosen</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Mathias Grote</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-30</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/kopflos/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Bildungskrise" restype=":Kapitel" id="kapitel_obj_16" permissions="res-default">
+    <bitstream>cache_GegenWissen_Kopflos_Bildungskrise_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Bildungskrise</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Fabian Grütter, Max Stadler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-10-01</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/kopflos/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Protest" restype=":Kapitel" id="kapitel_obj_17" permissions="res-default">
+    <bitstream>cache_GegenWissen_Maschinensturm_Protest_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Protest</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Martina Schlünder, Nils Güttler, Anna Maria Schmidt, Alexander von Schwerin</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/maschinensturm/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="High Tech" restype=":Kapitel" id="kapitel_obj_18" permissions="res-default">
+    <bitstream>cache_GegenWissen_Maschinensturm_High Tech_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">High Tech</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Max Stadler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-10</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/maschinensturm/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Editorial" restype=":Kapitel" id="kapitel_obj_19" permissions="res-default">
+    <bitstream>cache_GegenWissen_Editorial_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Editorial</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Max Stadler, Nils Güttler, Niki Rhyner</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/editorial/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Umbruch" restype=":Kapitel" id="kapitel_obj_20" permissions="res-default">
+    <bitstream>cache_GegenWissen_Maschinensturm_Umbruch_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Umbruch</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Niki Rhyner, Max Stadler</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-24</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/maschinensturm/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Alarm" restype=":Kapitel" id="kapitel_obj_21" permissions="res-default">
+    <bitstream>cache_GegenWissen_Maschinensturm_Alarm_2020.pdf</bitstream>
+    <text-prop name=":kapitelname">
+      <text permissions="prop-default" encoding="utf8">Alarm</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Martina Schlünder</text>
+    </text-prop>
+    <text-prop name=":titel_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Gegen|Wissen</text>
+    </text-prop>
+    <text-prop name=":autoren_des_buchs">
+      <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
+    </text-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-27</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/maschinensturm/</text>
+    </text-prop>
+    <text-prop name=":verlag">
+      <text permissions="prop-default" encoding="utf8">https://intercomverlag.ch/</text>
+    </text-prop>
+  </resource>
+  <resource label="Denken auf der Datenbank" restype=":Replik" id="titel0" permissions="res-default">
+    <bitstream>Replik_Echterhoelter_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Denken auf der Datenbank</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Anna Echterhölter, Wien</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_0</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-27</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/denkenaufderdatenbank</text>
+    </text-prop>
+  </resource>
+  <resource label="Durchlässige Kanäle" restype=":Replik" id="titel1" permissions="res-default">
+    <bitstream>Replik_Reichardt_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Durchlässige Kanäle</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Sven Reichardt, Konstanz</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_1</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-26</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/durchlaessigekanaele</text>
+    </text-prop>
+  </resource>
+  <resource label="»Do Artefacts Have Politics?«" restype=":Replik" id="titel2" permissions="res-default">
+    <bitstream>Replik_Dommann_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">»Do Artefacts Have Politics?«</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Monika Dommann, Zürich</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_2</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-29</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/doartefactshavepolitics</text>
+    </text-prop>
+  </resource>
+  <resource label="Bauen Wohnen Leben" restype=":Replik" id="titel3" permissions="res-default">
+    <bitstream>Bauen_wohnen_replik_text.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Bauen Wohnen Leben</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Christian Reiß, Regensburg</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_3</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-30</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/bauenwohnenleben</text>
+    </text-prop>
+  </resource>
+  <resource label="Das Öko-Institut im transatlantischen Kontext" restype=":Replik" id="titel4" permissions="res-default">
+    <bitstream>Replik_Eggstein_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Das Öko-Institut im transatlantischen Kontext</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Daniel Eggstein, Konstanz</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_4</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-04</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/dasoekoinstitutimtransatlantischenkontext</text>
+    </text-prop>
+  </resource>
+  <resource label="Vergangenheit als cache" restype=":Replik" id="titel5" permissions="res-default">
+    <bitstream>Replik_Arni_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Vergangenheit als cache</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Caroline Arni, Basel</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_5</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-07-31</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/vergangenheitalscache</text>
+    </text-prop>
+  </resource>
+  <resource label="Das europäische Subjekt dekolonialisieren" restype=":Replik" id="titel6" permissions="res-default">
+    <bitstream>Replik_Eidelpes_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Das europäische Subjekt dekolonialisieren</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Rosa Eidelpes, Wien</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_6</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-11</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/daseuropaeischesubjektdekolonialisieren</text>
+    </text-prop>
+  </resource>
+  <resource label="Crisi della ragione" restype=":Replik" id="titel7" permissions="res-default">
+    <bitstream>Replik_Erdur_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Crisi della ragione</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Onur Erdur, Berlin</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_7</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-12</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/crisidellaragione</text>
+    </text-prop>
+  </resource>
+  <resource label="Magisches Denken" restype=":Replik" id="titel8" permissions="res-default">
+    <bitstream>Replik_Tornay_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Magisches Denken</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Magaly Tornay, Zürich</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_8</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-12</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/magischesdenken</text>
+    </text-prop>
+  </resource>
+  <resource label="Symbiose" restype=":Replik" id="titel9" permissions="res-default">
+    <bitstream>Replik_Rheinberger_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Symbiose</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Hans-Jörg Rheinberger, Berlin</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_9</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-18</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/symbiose</text>
+    </text-prop>
+  </resource>
+  <resource label="Über die verschiedenen Tonlagen des Weltendes" restype=":Replik" id="titel10" permissions="res-default">
+    <bitstream>Replik_Leucht_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Über die verschiedenen Tonlagen des Weltendes</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Robert Leucht, Lausanne</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_10</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-20</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/ueberdieverschiedenentonlagendesweltendes</text>
+    </text-prop>
+  </resource>
+  <resource label="Filmische Spurensicherung in der Urner Bergwelt" restype=":Replik" id="titel11" permissions="res-default">
+    <bitstream>Replik_Bernet_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Filmische Spurensicherung in der Urner Bergwelt</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Brigitta Bernet, Zürich</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_11</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-08-25</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/filmischespurensicherunginderurnerbergwelt</text>
+    </text-prop>
+  </resource>
+  <resource label="Unerledigte Anliegen" restype=":Replik" id="titel12" permissions="res-default">
+    <bitstream>Replik_Nemec_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Unerledigte Anliegen</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Birgit Nemec, Heidelberg</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_12</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-01</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/unerledigteanliegen</text>
+    </text-prop>
+  </resource>
+  <resource label="female imagery" restype=":Replik" id="titel13" permissions="res-default">
+    <bitstream>Replik_Pelta Feldman_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">female imagery</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Julia Pelta Feldman, Berlin</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_13</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-03</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/femaleimagery</text>
+    </text-prop>
+  </resource>
+  <resource label="Globales Bewusstsein" restype=":Replik" id="titel14" permissions="res-default">
+    <bitstream>Replik_Mueller_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Globales Bewusstsein</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Lucas M. Mueller, Genf</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_14</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-21</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/globalesbewusstsein</text>
+    </text-prop>
+  </resource>
+  <resource label="Alte Lieder" restype=":Replik" id="titel15" permissions="res-default">
+    <bitstream>Replik_Steuwer_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Alte Lieder</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Janosch Steuwer, Zürich</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_15</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-25</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/altelieder</text>
+    </text-prop>
+  </resource>
+  <resource label="Flucht oder konkrete Utopie?" restype=":Replik" id="titel16" permissions="res-default">
+    <bitstream>Replik_Kwaschik_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Flucht oder konkrete Utopie?</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Anne Kwaschik, Konstanz</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_16</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-28</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/fluchtoderkonkreteutopie</text>
+    </text-prop>
+  </resource>
+  <resource label="Rückbesinnung als Gegen|Wissen?" restype=":Replik" id="titel17" permissions="res-default">
+    <bitstream>Replik_Samida_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Rückbesinnung als Gegen|Wissen?</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Stefanie Samida, Heidelberg</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_17</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-09-30</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/rueckbesinnungalsgegenwissen</text>
+    </text-prop>
+  </resource>
+  <resource label="Bocklosigkeit" restype=":Replik" id="titel18" permissions="res-default">
+    <bitstream>Replik_Hagner_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Bocklosigkeit</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Michael Hagner, Zürich</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_18</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-10-02</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/bocklosigkeit</text>
+    </text-prop>
+  </resource>
+  <resource label="Volkskultur als ›widerständige‹ Ressource" restype=":Replik" id="titel19" permissions="res-default">
+    <bitstream>Replik_Mueske_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Volkskultur als ›widerständige‹ Ressource</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Johannes Müske, Freiburg i. B.</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_19</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-10-05</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/volkskulturalswiderstaendigeressource</text>
+    </text-prop>
+  </resource>
+  <resource label="Kritik" restype=":Replik" id="titel20" permissions="res-default">
+    <bitstream>Replik_Zielinski_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Kritik</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Siegfried Zielinski, Berlin</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_20</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-10-15</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/kritik</text>
+    </text-prop>
+  </resource>
+  <resource label="Rechnen in den Geistes- und Sozialwissenschaften" restype=":Replik" id="titel21" permissions="res-default">
+    <bitstream>Replik_Wichum_GegenWissen_2020.pdf</bitstream>
+    <text-prop name=":titel">
+      <text permissions="prop-default" encoding="utf8">Rechnen in den Geistes- und Sozialwissenschaften</text>
+    </text-prop>
+    <text-prop name=":autor">
+      <text permissions="prop-default" encoding="utf8">Ricky Wichum, Zürich</text>
+    </text-prop>
+    <resptr-prop name=":replik_auf">
+      <resptr permissions="prop-default">kapitel_obj_21</resptr>
+    </resptr-prop>
+    <text-prop name=":datum_der_veroeffentlichung">
+      <text permissions="prop-default" encoding="utf8">2020-10-30</text>
+    </text-prop>
+    <text-prop name=":link">
+      <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/rechnenindengeistesundsozialwissenschaften</text>
+    </text-prop>
+  </resource>
+</knora>
