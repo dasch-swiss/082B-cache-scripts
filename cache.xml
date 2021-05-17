@@ -23,7 +23,7 @@
     <allow group="ProjectAdmin">CR</allow>
   </permissions>
   <resource label="About Cache" restype=":Kapitel" id="kapitel_obj_0" permissions="res-default">
-    <bitstream>cache_GegenWissen_Epilog_Aboutcache_20201.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Epilog_Aboutcache_20201.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">About Cache</text>
     </text-prop>
@@ -47,7 +47,7 @@
     </text-prop>
   </resource>
   <resource label="Alltag" restype=":Kapitel" id="kapitel_obj_1" permissions="res-default">
-    <bitstream>cache_GegenWissen_NoFuture_Alltag_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_NoFuture_Alltag_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Alltag</text>
     </text-prop>
@@ -71,7 +71,7 @@
     </text-prop>
   </resource>
   <resource label="Läden" restype=":Kapitel" id="kapitel_obj_2" permissions="res-default">
-    <bitstream>cache_GegenWissen_Selbermachen_Laeden_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Selbermachen_Laeden_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Läden</text>
     </text-prop>
@@ -95,7 +95,7 @@
     </text-prop>
   </resource>
   <resource label="Unternehmer" restype=":Kapitel" id="kapitel_obj_3" permissions="res-default">
-    <bitstream>cache_GegenWissen_Selbermachen_Unternehmer_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Selbermachen_Unternehmer_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Unternehmer</text>
     </text-prop>
@@ -119,7 +119,7 @@
     </text-prop>
   </resource>
   <resource label="Kanäle" restype=":Kapitel" id="kapitel_obj_4" permissions="res-default">
-    <bitstream>cache_GegenWissen_Selbermachen_Kanäle_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Selbermachen_Kanäle_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Kanäle</text>
     </text-prop>
@@ -143,7 +143,7 @@
     </text-prop>
   </resource>
   <resource label="Bewusstsein" restype=":Kapitel" id="kapitel_obj_5" permissions="res-default">
-    <bitstream>cache_GegenWissen_Selbermachen_Bewusstsein_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Selbermachen_Bewusstsein_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Bewusstsein</text>
     </text-prop>
@@ -167,7 +167,7 @@
     </text-prop>
   </resource>
   <resource label="Feministische Natur" restype=":Kapitel" id="kapitel_obj_6" permissions="res-default">
-    <bitstream>cache_GegenWissen_Naturpolitiken_FeministischeNatur_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Naturpolitiken_FeministischeNatur_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Feministische Natur</text>
     </text-prop>
@@ -191,7 +191,7 @@
     </text-prop>
   </resource>
   <resource label="Prick Art" restype=":Kapitel" id="kapitel_obj_7" permissions="res-default">
-    <bitstream>cache_GegenWissen_Kopflos_PrickArt_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Kopflos_PrickArt_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Prick Art</text>
     </text-prop>
@@ -215,7 +215,7 @@
     </text-prop>
   </resource>
   <resource label="Rückbesinnung" restype=":Kapitel" id="kapitel_obj_8" permissions="res-default">
-    <bitstream>cache_GegenWissen_NoFuture_Rueckbesinnung_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_NoFuture_Rueckbesinnung_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Rückbesinnung</text>
     </text-prop>
@@ -239,7 +239,7 @@
     </text-prop>
   </resource>
   <resource label="Krise der Vernunft" restype=":Kapitel" id="kapitel_obj_9" permissions="res-default">
-    <bitstream>cache_GegenWissen_Kopflos_KrisederVernunft_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Kopflos_KrisederVernunft_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Krise der Vernunft</text>
     </text-prop>
@@ -263,7 +263,7 @@
     </text-prop>
   </resource>
   <resource label="Dorf" restype=":Kapitel" id="kapitel_obj_10" permissions="res-default">
-    <bitstream>cache_GegenWissen_NoFuture_Dorf_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_NoFuture_Dorf_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Dorf</text>
     </text-prop>
@@ -287,7 +287,7 @@
     </text-prop>
   </resource>
   <resource label="Apokalypse" restype=":Kapitel" id="kapitel_obj_11" permissions="res-default">
-    <bitstream>cache_GegenWissen_NoFuture_Apokalypse_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_NoFuture_Apokalypse_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Apokalypse</text>
     </text-prop>
@@ -311,7 +311,7 @@
     </text-prop>
   </resource>
   <resource label="Biotopia" restype=":Kapitel" id="kapitel_obj_12" permissions="res-default">
-    <bitstream>cache_GegenWissen_Naturpolitiken_Biotopia_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Naturpolitiken_Biotopia_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Biotopia</text>
     </text-prop>
@@ -335,7 +335,7 @@
     </text-prop>
   </resource>
   <resource label="Beton" restype=":Kapitel" id="kapitel_obj_13" permissions="res-default">
-    <bitstream>cache_GegenWissen_Naturpolitiken_Beton_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Naturpolitiken_Beton_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Beton</text>
     </text-prop>
@@ -359,7 +359,7 @@
     </text-prop>
   </resource>
   <resource label="Differenz" restype=":Kapitel" id="kapitel_obj_14" permissions="res-default">
-    <bitstream>cache_GegenWissen_Naturpolitiken_Differenz_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Naturpolitiken_Differenz_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Differenz</text>
     </text-prop>
@@ -383,7 +383,7 @@
     </text-prop>
   </resource>
   <resource label="Symbiosen" restype=":Kapitel" id="kapitel_obj_15" permissions="res-default">
-    <bitstream>cache_GegenWissen_Kopflos_Symbiosen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Kopflos_Symbiosen_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Symbiosen</text>
     </text-prop>
@@ -407,7 +407,7 @@
     </text-prop>
   </resource>
   <resource label="Bildungskrise" restype=":Kapitel" id="kapitel_obj_16" permissions="res-default">
-    <bitstream>cache_GegenWissen_Kopflos_Bildungskrise_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Kopflos_Bildungskrise_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Bildungskrise</text>
     </text-prop>
@@ -431,7 +431,7 @@
     </text-prop>
   </resource>
   <resource label="Protest" restype=":Kapitel" id="kapitel_obj_17" permissions="res-default">
-    <bitstream>cache_GegenWissen_Maschinensturm_Protest_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Maschinensturm_Protest_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Protest</text>
     </text-prop>
@@ -455,7 +455,7 @@
     </text-prop>
   </resource>
   <resource label="High Tech" restype=":Kapitel" id="kapitel_obj_18" permissions="res-default">
-    <bitstream>cache_GegenWissen_Maschinensturm_High Tech_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Maschinensturm_High Tech_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">High Tech</text>
     </text-prop>
@@ -479,7 +479,7 @@
     </text-prop>
   </resource>
   <resource label="Editorial" restype=":Kapitel" id="kapitel_obj_19" permissions="res-default">
-    <bitstream>cache_GegenWissen_Editorial_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Editorial_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Editorial</text>
     </text-prop>
@@ -503,7 +503,7 @@
     </text-prop>
   </resource>
   <resource label="Umbruch" restype=":Kapitel" id="kapitel_obj_20" permissions="res-default">
-    <bitstream>cache_GegenWissen_Maschinensturm_Umbruch_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Maschinensturm_Umbruch_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Umbruch</text>
     </text-prop>
@@ -527,7 +527,7 @@
     </text-prop>
   </resource>
   <resource label="Alarm" restype=":Kapitel" id="kapitel_obj_21" permissions="res-default">
-    <bitstream>cache_GegenWissen_Maschinensturm_Alarm_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Chapter/cache_GegenWissen_Maschinensturm_Alarm_2020.pdf</bitstream>
     <text-prop name=":kapitelname">
       <text permissions="prop-default" encoding="utf8">Alarm</text>
     </text-prop>
@@ -551,7 +551,7 @@
     </text-prop>
   </resource>
   <resource label="Denken auf der Datenbank" restype=":Replik" id="titel0" permissions="res-default">
-    <bitstream>Replik_Echterhoelter_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Echterhoelter_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Denken auf der Datenbank</text>
     </text-prop>
@@ -569,7 +569,7 @@
     </text-prop>
   </resource>
   <resource label="Durchlässige Kanäle" restype=":Replik" id="titel1" permissions="res-default">
-    <bitstream>Replik_Reichardt_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Reichardt_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Durchlässige Kanäle</text>
     </text-prop>
@@ -587,7 +587,7 @@
     </text-prop>
   </resource>
   <resource label="»Do Artefacts Have Politics?«" restype=":Replik" id="titel2" permissions="res-default">
-    <bitstream>Replik_Dommann_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Dommann_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">»Do Artefacts Have Politics?«</text>
     </text-prop>
@@ -605,7 +605,7 @@
     </text-prop>
   </resource>
   <resource label="Bauen Wohnen Leben" restype=":Replik" id="titel3" permissions="res-default">
-    <bitstream>Bauen_wohnen_replik_text.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Bauen_wohnen_replik_text.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Bauen Wohnen Leben</text>
     </text-prop>
@@ -623,7 +623,7 @@
     </text-prop>
   </resource>
   <resource label="Das Öko-Institut im transatlantischen Kontext" restype=":Replik" id="titel4" permissions="res-default">
-    <bitstream>Replik_Eggstein_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Eggstein_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Das Öko-Institut im transatlantischen Kontext</text>
     </text-prop>
@@ -641,7 +641,7 @@
     </text-prop>
   </resource>
   <resource label="Vergangenheit als cache" restype=":Replik" id="titel5" permissions="res-default">
-    <bitstream>Replik_Arni_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Arni_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Vergangenheit als cache</text>
     </text-prop>
@@ -659,7 +659,7 @@
     </text-prop>
   </resource>
   <resource label="Das europäische Subjekt dekolonialisieren" restype=":Replik" id="titel6" permissions="res-default">
-    <bitstream>Replik_Eidelpes_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Eidelpes_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Das europäische Subjekt dekolonialisieren</text>
     </text-prop>
@@ -677,7 +677,7 @@
     </text-prop>
   </resource>
   <resource label="Crisi della ragione" restype=":Replik" id="titel7" permissions="res-default">
-    <bitstream>Replik_Erdur_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Erdur_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Crisi della ragione</text>
     </text-prop>
@@ -695,7 +695,7 @@
     </text-prop>
   </resource>
   <resource label="Magisches Denken" restype=":Replik" id="titel8" permissions="res-default">
-    <bitstream>Replik_Tornay_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Tornay_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Magisches Denken</text>
     </text-prop>
@@ -713,7 +713,7 @@
     </text-prop>
   </resource>
   <resource label="Symbiose" restype=":Replik" id="titel9" permissions="res-default">
-    <bitstream>Replik_Rheinberger_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Rheinberger_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Symbiose</text>
     </text-prop>
@@ -731,7 +731,7 @@
     </text-prop>
   </resource>
   <resource label="Über die verschiedenen Tonlagen des Weltendes" restype=":Replik" id="titel10" permissions="res-default">
-    <bitstream>Replik_Leucht_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Leucht_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Über die verschiedenen Tonlagen des Weltendes</text>
     </text-prop>
@@ -749,7 +749,7 @@
     </text-prop>
   </resource>
   <resource label="Filmische Spurensicherung in der Urner Bergwelt" restype=":Replik" id="titel11" permissions="res-default">
-    <bitstream>Replik_Bernet_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Bernet_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Filmische Spurensicherung in der Urner Bergwelt</text>
     </text-prop>
@@ -767,7 +767,7 @@
     </text-prop>
   </resource>
   <resource label="Unerledigte Anliegen" restype=":Replik" id="titel12" permissions="res-default">
-    <bitstream>Replik_Nemec_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Nemec_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Unerledigte Anliegen</text>
     </text-prop>
@@ -785,7 +785,7 @@
     </text-prop>
   </resource>
   <resource label="female imagery" restype=":Replik" id="titel13" permissions="res-default">
-    <bitstream>Replik_Pelta Feldman_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Pelta Feldman_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">female imagery</text>
     </text-prop>
@@ -803,7 +803,7 @@
     </text-prop>
   </resource>
   <resource label="Globales Bewusstsein" restype=":Replik" id="titel14" permissions="res-default">
-    <bitstream>Replik_Mueller_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Mueller_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Globales Bewusstsein</text>
     </text-prop>
@@ -821,7 +821,7 @@
     </text-prop>
   </resource>
   <resource label="Alte Lieder" restype=":Replik" id="titel15" permissions="res-default">
-    <bitstream>Replik_Steuwer_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Steuwer_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Alte Lieder</text>
     </text-prop>
@@ -839,7 +839,7 @@
     </text-prop>
   </resource>
   <resource label="Flucht oder konkrete Utopie?" restype=":Replik" id="titel16" permissions="res-default">
-    <bitstream>Replik_Kwaschik_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Kwaschik_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Flucht oder konkrete Utopie?</text>
     </text-prop>
@@ -857,7 +857,7 @@
     </text-prop>
   </resource>
   <resource label="Rückbesinnung als Gegen|Wissen?" restype=":Replik" id="titel17" permissions="res-default">
-    <bitstream>Replik_Samida_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Samida_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Rückbesinnung als Gegen|Wissen?</text>
     </text-prop>
@@ -875,7 +875,7 @@
     </text-prop>
   </resource>
   <resource label="Bocklosigkeit" restype=":Replik" id="titel18" permissions="res-default">
-    <bitstream>Replik_Hagner_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Hagner_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Bocklosigkeit</text>
     </text-prop>
@@ -893,7 +893,7 @@
     </text-prop>
   </resource>
   <resource label="Volkskultur als ›widerständige‹ Ressource" restype=":Replik" id="titel19" permissions="res-default">
-    <bitstream>Replik_Mueske_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Mueske_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Volkskultur als ›widerständige‹ Ressource</text>
     </text-prop>
@@ -911,7 +911,7 @@
     </text-prop>
   </resource>
   <resource label="Kritik" restype=":Replik" id="titel20" permissions="res-default">
-    <bitstream>Replik_Zielinski_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Zielinski_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Kritik</text>
     </text-prop>
@@ -929,7 +929,7 @@
     </text-prop>
   </resource>
   <resource label="Rechnen in den Geistes- und Sozialwissenschaften" restype=":Replik" id="titel21" permissions="res-default">
-    <bitstream>Replik_Wichum_GegenWissen_2020.pdf</bitstream>
+    <bitstream>data_neue-pdf/PDF-Replic/Replik_Wichum_GegenWissen_2020.pdf</bitstream>
     <text-prop name=":titel">
       <text permissions="prop-default" encoding="utf8">Rechnen in den Geistes- und Sozialwissenschaften</text>
     </text-prop>

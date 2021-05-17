@@ -1,6 +1,6 @@
 {
     "prefixes": {
-      "flsgv": "http://api.test.dasch.swiss/ontology/082B/cache/v2",
+      "cache": "http://api.test.dasch.swiss/ontology/082B/cache/v2",
       "foaf": "http://xmlns.com/foaf/0.1/",
       "dcterms": "http://purl.org/dc/terms/"
     },
