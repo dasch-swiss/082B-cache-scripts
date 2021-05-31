@@ -36,9 +36,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-16:CE:2020-07-16</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/epilog/</text>
     </text-prop>
@@ -60,9 +60,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-13</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-13:CE:2020-08-13</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/nofuture/</text>
     </text-prop>
@@ -84,9 +84,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-30</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-30:CE:2020-07-30</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/selbermachen/</text>
     </text-prop>
@@ -108,9 +108,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-10</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-10:CE:2020-09-10</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/selbermachen/</text>
     </text-prop>
@@ -132,9 +132,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-16:CE:2020-07-16</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/selbermachen/</text>
     </text-prop>
@@ -156,9 +156,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-17</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-17:CE:2020-09-17</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/selbermachen/</text>
     </text-prop>
@@ -180,9 +180,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-16:CE:2020-07-16</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/naturpolitiken/</text>
     </text-prop>
@@ -204,9 +204,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-27</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-27:CE:2020-08-27</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/kopflos/</text>
     </text-prop>
@@ -228,9 +228,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-24</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-24:CE:2020-09-24</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/nofuture/</text>
     </text-prop>
@@ -252,9 +252,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-16:CE:2020-07-16</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/kopflos/</text>
     </text-prop>
@@ -276,9 +276,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-17</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-17:CE:2020-09-17</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/nofuture/</text>
     </text-prop>
@@ -300,9 +300,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-13</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-13:CE:2020-08-13</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/nofuture/</text>
     </text-prop>
@@ -324,9 +324,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-30</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-30:CE:2020-07-30</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/naturpolitiken/</text>
     </text-prop>
@@ -348,9 +348,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-16:CE:2020-07-16</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/naturpolitiken/</text>
     </text-prop>
@@ -372,9 +372,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-10-01</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-10-01:CE:2020-10-01</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/naturpolitiken/</text>
     </text-prop>
@@ -396,9 +396,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-30</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-30:CE:2020-07-30</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/kopflos/</text>
     </text-prop>
@@ -420,9 +420,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-10-01</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-10-01:CE:2020-10-01</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/kopflos/</text>
     </text-prop>
@@ -444,9 +444,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-16:CE:2020-07-16</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/maschinensturm/</text>
     </text-prop>
@@ -468,9 +468,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-10</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-10:CE:2020-09-10</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/maschinensturm/</text>
     </text-prop>
@@ -492,9 +492,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-16</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-16:CE:2020-07-16</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/editorial/</text>
     </text-prop>
@@ -516,9 +516,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-24</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-24:CE:2020-09-24</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/maschinensturm/</text>
     </text-prop>
@@ -540,9 +540,9 @@
     <text-prop name=":autoren_des_buchs">
       <text permissions="prop-default" encoding="utf8">Nils Güttler, Anna Maria Schmidt, Max Stadler, Alexander von Schwerin, Niki Rhyner, Susanne Schmidt, Mathias Grote, Martina Schlünder, Tobias Scheidegger, Nadine Zberg, Monika Wulz, Fabian Grütter</text>
     </text-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-27</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-27:CE:2020-08-27</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/gegenwissen/maschinensturm/</text>
     </text-prop>
@@ -561,9 +561,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_0</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-27</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-27:CE:2020-07-27</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/denkenaufderdatenbank</text>
     </text-prop>
@@ -579,9 +579,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_1</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-26</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-26:CE:2020-07-26</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/durchlaessigekanaele</text>
     </text-prop>
@@ -597,9 +597,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_2</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-29</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-29:CE:2020-07-29</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/doartefactshavepolitics</text>
     </text-prop>
@@ -615,9 +615,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_3</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-30</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-30:CE:2020-07-30</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/bauenwohnenleben</text>
     </text-prop>
@@ -633,9 +633,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_4</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-04</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-04:CE:2020-08-04</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/dasoekoinstitutimtransatlantischenkontext</text>
     </text-prop>
@@ -651,9 +651,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_5</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-07-31</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-07-31:CE:2020-07-31</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/vergangenheitalscache</text>
     </text-prop>
@@ -669,9 +669,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_6</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-11</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-11:CE:2020-08-11</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/daseuropaeischesubjektdekolonialisieren</text>
     </text-prop>
@@ -687,9 +687,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_7</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-12</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-12:CE:2020-08-12</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/crisidellaragione</text>
     </text-prop>
@@ -705,9 +705,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_8</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-12</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-12:CE:2020-08-12</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/magischesdenken</text>
     </text-prop>
@@ -723,9 +723,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_9</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-18</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-18:CE:2020-08-18</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/symbiose</text>
     </text-prop>
@@ -741,9 +741,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_10</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-20</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-20:CE:2020-08-20</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/ueberdieverschiedenentonlagendesweltendes</text>
     </text-prop>
@@ -759,9 +759,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_11</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-08-25</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-08-25:CE:2020-08-25</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/filmischespurensicherunginderurnerbergwelt</text>
     </text-prop>
@@ -777,9 +777,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_12</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-01</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-01:CE:2020-09-01</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/unerledigteanliegen</text>
     </text-prop>
@@ -795,9 +795,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_13</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-03</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-03:CE:2020-09-03</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/femaleimagery</text>
     </text-prop>
@@ -813,9 +813,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_14</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-21</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-21:CE:2020-09-21</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/globalesbewusstsein</text>
     </text-prop>
@@ -831,9 +831,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_15</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-25</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-25:CE:2020-09-25</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/altelieder</text>
     </text-prop>
@@ -849,9 +849,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_16</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-28</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-28:CE:2020-09-28</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/fluchtoderkonkreteutopie</text>
     </text-prop>
@@ -867,9 +867,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_17</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-09-30</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-09-30:CE:2020-09-30</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/rueckbesinnungalsgegenwissen</text>
     </text-prop>
@@ -885,9 +885,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_18</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-10-02</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-10-02:CE:2020-10-02</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/bocklosigkeit</text>
     </text-prop>
@@ -903,9 +903,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_19</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-10-05</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-10-05:CE:2020-10-05</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/volkskulturalswiderstaendigeressource</text>
     </text-prop>
@@ -921,9 +921,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_20</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-10-15</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-10-15:CE:2020-10-15</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/kritik</text>
     </text-prop>
@@ -939,9 +939,9 @@
     <resptr-prop name=":replik_auf">
       <resptr permissions="prop-default">kapitel_obj_21</resptr>
     </resptr-prop>
-    <text-prop name=":datum_der_veroeffentlichung">
-      <text permissions="prop-default" encoding="utf8">2020-10-30</text>
-    </text-prop>
+    <date-prop name=":datum_der_veroeffentlichung">
+      <date permissions="prop-default">GREGORIAN:CE:2020-10-30:CE:2020-10-30</date>
+    </date-prop>
     <text-prop name=":link">
       <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/rechnenindengeistesundsozialwissenschaften</text>
     </text-prop>
