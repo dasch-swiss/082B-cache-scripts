@@ -1,206 +1,266 @@
 {
-    "prefixes": {
-      "cache": "http://api.test.dasch.swiss/ontology/082B/cache/v2",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dcterms": "http://purl.org/dc/terms/"
+  "prefixes": {
+    "cache": "http://api.test.dasch.swiss/ontology/082B/cache/v2",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "project": {
+    "shortcode": "082B",
+    "shortname": "cache",
+    "longname": "cache. Arbeitsspeicher für neue Denkkollektive",
+    "descriptions": {
+      "de": "Das Publikationsprojekt cache erforscht Fragen der \"Offenheit\" und \"Zugänglichkeit\" geisteswissenschaftlicher Publikationen aus der editorischen Praxis heraus und beantwortet sie mit einem konkreten Produkt: Die Reihe cache ist ein Publikationstool für Forschungsgruppen. Es ermöglicht ihnen, gemeinsam an einem Thema zu arbeiten, mit Inhalten anders umzugehen und abseits der gewohnten Formate zu publizieren. cache ist eine Mischung aus Kollektivessay und Materialsammlung und erscheint hybrid: als Buch und – open-access – als Webseite, wo zusätzliche Inhalte zu finden sind.",
+      "en": "The publication project cache addresses the politics of openness and accessibility in the humanities by practically engaging with editorial practice. cache is both an epistemic tool and a publication platform for research groups. The product combines elements of edited volumes (thematic issues), of collective monographs (the collective writing process), of exhibitions (the focus on visual aspects) and open archives (the reprint of archive material in the publication)."
     },
-    "project": {
-       "shortcode": "082B",
-       "shortname": "cache",
-       "longname": "cache. Arbeitsspeicher für neue Denkkollektive",
-       "descriptions": {
-          "de": "Das Publikationsprojekt cache erforscht Fragen der \"Offenheit\" und \"Zugänglichkeit\" geisteswissenschaftlicher Publikationen aus der editorischen Praxis heraus und beantwortet sie mit einem konkreten Produkt: Die Reihe cache ist ein Publikationstool für Forschungsgruppen. Es ermöglicht ihnen, gemeinsam an einem Thema zu arbeiten, mit Inhalten anders umzugehen und abseits der gewohnten Formate zu publizieren. cache ist eine Mischung aus Kollektivessay und Materialsammlung und erscheint hybrid: als Buch und – open-access – als Webseite, wo zusätzliche Inhalte zu finden sind.",
-          "en": "The publication project cache addresses the politics of openness and accessibility in the humanities by practically engaging with editorial practice. cache is both an epistemic tool and a publication platform for research groups. The product combines elements of edited volumes (thematic issues), of collective monographs (the collective writing process), of exhibitions (the focus on visual aspects) and open archives (the reprint of archive material in the publication)."
-       },
-       "keywords": [
-           "hybrid publishing",
-           "publishing in the humanities",
-           "open access",
-           "scholar-led publishing",
-           "history"
-        ],
-        "groups": [
-         {
-           "name": "cache-editors",
-           "description": "Editors for the cache project",
-           "selfjoin": false,
-           "status": true
-         }
-        ],
-        "users": [
-        ],
-        "ontologies": [
-            {
-               "name": "cache",
-               "label": "cache. Arbeitsspeicher für neue Denkkollektive",
-               "properties": [
-                {
-                  "name": "kapitelname",
-                  "object": "TextValue",
-                  "labels": { "de": "Kapitelname" },
-                  "gui_element": "SimpleText",
-                  "gui_attributes": {
-                    "maxlength": "128",
-                    "size": 32
-                  }
-                }, 
-                {
-                    "name": "autor",
-                    "object": "TextValue",
-                    "labels": { "de": "Autor" },
-                    "gui_element": "SimpleText",
-                    "gui_attributes": {
-                       "maxlength": "128",
-                       "size": 32
-                   }
-                  },
-                  {
-                    "name": "titel_des_buchs",
-                    "object": "TextValue",
-                    "labels": { "de": "Titel des Buchs" },
-                    "gui_element": "SimpleText",
-                    "gui_attributes": {
-                       "maxlength": "128",
-                       "size": 32
-                   }
-                  },
-                  {
-                    "name": "autoren_des_buchs",
-                    "object": "TextValue",
-                    "labels": { "de": "Autor des Buches" },
-                    "gui_element": "SimpleText",
-                    "gui_attributes": {
-                       "maxlength": "128",
-                       "size": 32
-                   }
-                  },
-                  {
-                    "name": "datum_der_veroeffentlichung",
-                    "object": "DateValue",
-                    "labels": { "de": "Datum der Veröffentlichung" },
-                    "gui_element": "Date"
-                  },
-                  {
-                    "name": "link",
-                    "super": [ "hasValue" ],
-                    "object": "UriValue",
-                    "labels": {"de": "Link zur Website"},
-                    "gui_element": "SimpleText",
-                    "gui_attributes": {
-                      "maxlength": "255",
-                      "size": 80
-                    }
-                  },
-                  {
-                    "name": "verlag",
-                    "super": [ "hasValue" ],
-                    "object": "UriValue",
-                    "labels": { "de": "Verlag" },
-                    "gui_element": "SimpleText",
-                    "gui_attributes": {
-                      "maxlength": "255",
-                      "size": 80
-                    }
-                  },
-                  {
-                    "name": "titel",
-                    "object": "TextValue",
-                    "labels": { "de": "Titel" },
-                    "gui_element": "SimpleText",
-                    "gui_attributes": {
-                       "maxlength": "128",
-                       "size": 32
-                   }
-                  },
-                  {
-                    "name": "replik_auf",
-                    "super": [ "hasLinkTo" ],
-                    "object": ":Kapitel",
-                    "labels": "Replik auf Buch/Kapitel",
-                    "gui_element": "Searchbox"
-                  }
-                ],
-                  "resources": [
-                      {
-                        "name": "Kapitel",
-                        "labels": { "de": "Kapitel" },
-                        "comments": "none",
-                        "super": "DocumentRepresentation",
-                        "cardinalities": [
-                          {
-                            "propname": ":autor",
-                            "gui_order": 1,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":kapitelname",
-                            "gui_order": 2,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":titel_des_buchs",
-                            "gui_order": 3,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":autoren_des_buchs",
-                            "gui_order": 4,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":datum_der_veroeffentlichung",
-                            "gui_order": 5,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":link",
-                            "gui_order": 6,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":verlag",
-                            "gui_order": 7,
-                            "cardinality": "0-n"
-                          }
-                        ]
-                      },
-                      {
-                        "name": "Replik",
-                        "labels": { "de": "Replik" },
-                        "comments": "none",
-                        "super": "DocumentRepresentation",
-                        "cardinalities": [
-                          {
-                            "propname": ":titel",
-                            "gui_order": 1,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":autor",
-                            "gui_order": 2,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":replik_auf",
-                            "gui_order": 3,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":datum_der_veroeffentlichung",
-                            "gui_order": 4,
-                            "cardinality": "0-n"
-                          },
-                          {
-                            "propname": ":link",
-                            "gui_order": 5,
-                            "cardinality": "0-n"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]  
-              }
+    "keywords": [
+      "hybrid publishing",
+      "publishing in the humanities",
+      "open access",
+      "scholar-led publishing",
+      "history"
+    ],
+    "groups": [
+      {
+        "name": "cache-editors",
+        "description": "Editors for the cache project",
+        "selfjoin": false,
+        "status": true
+      }
+    ],
+    "users": [
+    ],
+    "ontologies": [
+      {
+        "name": "cache",
+        "label": "cache. Arbeitsspeicher für neue Denkkollektive",
+        "properties": [
+          {
+            "name": "kapitelname",
+            "object": "TextValue",
+            "labels": {
+              "de": "Kapitelname"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
             }
+          },
+          {
+            "name": "autor",
+            "object": "TextValue",
+            "labels": {
+              "de": "Autor"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
+            }
+          },
+          {
+            "name": "titel_des_buchs",
+            "object": "TextValue",
+            "labels": {
+              "de": "Titel des Buchs"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
+            }
+          },
+          {
+            "name": "autoren_des_buchs",
+            "object": "TextValue",
+            "labels": {
+              "de": "Autor des Buches"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
+            }
+          },
+          {
+            "name": "datum_der_veroeffentlichung",
+            "object": "DateValue",
+            "labels": {
+              "de": "Datum der Veröffentlichung"
+            },
+            "gui_element": "Date"
+          },
+          {
+            "name": "link",
+            "super": [
+              "hasValue"
+            ],
+            "object": "UriValue",
+            "labels": {
+              "de": "Link zur Website"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "maxlength": "255",
+              "size": 80
+            }
+          },
+          {
+            "name": "verlag",
+            "super": [
+              "hasValue"
+            ],
+            "object": "UriValue",
+            "labels": {
+              "de": "Verlag"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "maxlength": "255",
+              "size": 80
+            }
+          },
+          {
+            "name": "titel",
+            "object": "TextValue",
+            "labels": {
+              "de": "Titel"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
+            }
+          },
+          {
+            "name": "replik_auf",
+            "super": [
+              "hasLinkTo"
+            ],
+            "object": ":Kapitel",
+            "labels": "Replik auf Buch/Kapitel",
+            "gui_element": "Searchbox"
+          },
+          {
+            "name": "hat_datei",
+            "super": [
+              "hasLinkTo"
+            ],
+            "object": ":File",
+            "labels": {
+              "de": "Verknüpfte Datei"
+            },
+            "gui_element": "Searchbox",
+            "gui_attributes": {
+              "numprops": 32
+            }
+          }
+        ],
+        "resources": [
+          {
+            "name": "File",
+            "labels": {
+              "de": "Datei"
+            },
+            "comments": "none",
+            "super": "DocumentRepresentation",
+            "cardinalities": [
+            ]
+          },
+          {
+            "name": "Kapitel",
+            "labels": {
+              "de": "Kapitel"
+            },
+            "comments": "none",
+            "super": "Resource",
+            "cardinalities": [
+              {
+                "propname": ":autor",
+                "gui_order": 1,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":kapitelname",
+                "gui_order": 2,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":titel_des_buchs",
+                "gui_order": 3,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":autoren_des_buchs",
+                "gui_order": 4,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":datum_der_veroeffentlichung",
+                "gui_order": 5,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":link",
+                "gui_order": 6,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":verlag",
+                "gui_order": 7,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":hat_datei",
+                "gui_order": 8,
+                "cardinality": "1"
+              }
+            ]
+          },
+          {
+            "name": "Replik",
+            "labels": {
+              "de": "Replik"
+            },
+            "comments": "none",
+            "super": "Resource",
+            "cardinalities": [
+              {
+                "propname": ":titel",
+                "gui_order": 1,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":autor",
+                "gui_order": 2,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":replik_auf",
+                "gui_order": 3,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":datum_der_veroeffentlichung",
+                "gui_order": 4,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":link",
+                "gui_order": 5,
+                "cardinality": "0-n"
+              },
+              {
+                "propname": ":hat_datei",
+                "gui_order": 6,
+                "cardinality": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
         
                     
