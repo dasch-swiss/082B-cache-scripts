@@ -27,8 +27,6 @@
         "status": true
       }
     ],
-    "users": [
-    ],
     "ontologies": [
       {
         "name": "cache",

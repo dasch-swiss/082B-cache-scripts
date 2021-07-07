@@ -901,9 +901,7 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-08-04:CE:2020-08-04</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">
-                http://www.cache.ch/blog/dasoekoinstitutimtransatlantischenkontext
-            </text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/dasoekoinstitutimtransatlantischenkontext</text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_26</resptr>
@@ -943,9 +941,7 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-08-11:CE:2020-08-11</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">
-                http://www.cache.ch/blog/daseuropaeischesubjektdekolonialisieren
-            </text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/daseuropaeischesubjektdekolonialisieren</text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_28</resptr>
@@ -1026,9 +1022,7 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-08-20:CE:2020-08-20</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">
-                http://www.cache.ch/blog/ueberdieverschiedenentonlagendesweltendes
-            </text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/ueberdieverschiedenentonlagendesweltendes</text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_32</resptr>
@@ -1049,9 +1043,7 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-08-25:CE:2020-08-25</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">
-                http://www.cache.ch/blog/filmischespurensicherunginderurnerbergwelt
-            </text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/filmischespurensicherunginderurnerbergwelt</text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_33</resptr>
@@ -1213,9 +1205,7 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-10-05:CE:2020-10-05</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">
-                http://www.cache.ch/blog/volkskulturalswiderstaendigeressource
-            </text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/volkskulturalswiderstaendigeressource</text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_41</resptr>
@@ -1256,9 +1246,7 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-10-30:CE:2020-10-30</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">
-                http://www.cache.ch/blog/rechnenindengeistesundsozialwissenschaften
-            </text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/rechnenindengeistesundsozialwissenschaften</text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_43</resptr>
