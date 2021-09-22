@@ -4,6 +4,7 @@
     "foaf": "http://xmlns.com/foaf/0.1/",
     "dcterms": "http://purl.org/dc/terms/"
   },
+  "$schema": "https://raw.githubusercontent.com/dasch-swiss/dsp-tools/main/knora/dsplib/schemas/ontology.json",
   "project": {
     "shortcode": "082B",
     "shortname": "cache",

@@ -1,11 +1,4 @@
-import csv
-import numpy as np
 import pandas as pd
-import sys
-import os
-import datetime
-
-from pprint import pprint
 
 from lxml import etree
 from lxml.builder import E
@@ -18,6 +11,8 @@ def make_root(shortcode, default_ontology):
     return root
 
     # noinspection PyPep8Naming
+
+
 def append_permissions(root_element: etree.Element):
     PERMISSIONS = E.permissions
     ALLOW = E.allow
@@ -143,6 +138,7 @@ def make_uri_prop(name, value, permissions="prop-default"):
     prop_.append(value_)
     return prop_
 
+
 # noinspection PyPep8Naming
 def make_bitstream_prop(name, value, permissions="prop-default"):
     prop_ = etree.Element("bitstream")
@@ -166,11 +162,8 @@ def main():
     root = make_root("082B", "cache")
     root = append_permissions(root)
 
-    # loop start
-    # fill in loop
-
     for index, row in cachechapter.iterrows():
-        kapitel = make_resource(row['kapitelname'], ":Kapitel", "kapitel_obj_"+str(index), "res-default")
+        kapitel = make_resource(row['kapitelname'], ":Kapitel", "kapitel_obj_" + str(index), "res-default")
         if pd.notna(row['pdf']):
             kapitel.append(make_bitstream_prop(":pdf", row['pdf'][21:]))
 
@@ -198,7 +191,7 @@ def main():
         root.append(kapitel)
 
     for index, row in cachereplica.iterrows():
-        replik = make_resource(row['titel'], ":Replik", "titel"+str(index), "res-default")
+        replik = make_resource(row['titel'], ":Replik", "titel" + str(index), "res-default")
         if pd.notna(row['pdf']):
             replik.append(make_bitstream_prop(":pdf", row['pdf'][21:]))
 
@@ -218,8 +211,6 @@ def main():
             replik.append(make_text_prop(":link", row['link']))
 
         root.append(replik)
-
-    
 
     # loop end
 

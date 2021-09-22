@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<knora shortcode="082B" default-ontology="cache">
+<knora xmlns="https://dasch.swiss/schema"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="https://dasch.swiss/schema https://raw.githubusercontent.com/dasch-swiss/dsp-tools/main/knora/dsplib/schemas/data.xsd"
+       shortcode="082B" default-ontology="cache">
     <permissions id="res-default">
         <allow group="UnknownUser">RV</allow>
         <allow group="KnownUser">V</allow>
@@ -101,8 +104,7 @@
     <resource label="Bauen Wohnen Leben" restype=":File" id="file_25" permissions="res-default">
         <bitstream>data_neue-pdf/PDF-Replic/Bauen_wohnen_replik_text.pdf</bitstream>
     </resource>
-    <resource label="Das Öko-Institut im transatlantischen Kontext" restype=":File" id="file_26"
-              permissions="res-default">
+    <resource label="Das Öko-Institut im transatlantischen Kontext" restype=":File" id="file_26" permissions="res-default">
         <bitstream>data_neue-pdf/PDF-Replic/Replik_Eggstein_GegenWissen_2020.pdf</bitstream>
     </resource>
     <resource label="Vergangenheit als cache" restype=":File" id="file_27" permissions="res-default">
@@ -901,7 +903,8 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-08-04:CE:2020-08-04</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/dasoekoinstitutimtransatlantischenkontext</text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/dasoekoinstitutimtransatlantischenkontext
+            </text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_26</resptr>
@@ -941,7 +944,8 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-08-11:CE:2020-08-11</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/daseuropaeischesubjektdekolonialisieren</text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/daseuropaeischesubjektdekolonialisieren
+            </text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_28</resptr>
@@ -1022,7 +1026,8 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-08-20:CE:2020-08-20</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/ueberdieverschiedenentonlagendesweltendes</text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/ueberdieverschiedenentonlagendesweltendes
+            </text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_32</resptr>
@@ -1043,7 +1048,8 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-08-25:CE:2020-08-25</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/filmischespurensicherunginderurnerbergwelt</text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/filmischespurensicherunginderurnerbergwelt
+            </text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_33</resptr>
@@ -1231,8 +1237,7 @@
             <resptr permissions="prop-default">file_42</resptr>
         </resptr-prop>
     </resource>
-    <resource label="Rechnen in den Geistes- und Sozialwissenschaften" restype=":Replik" id="titel21"
-              permissions="res-default">
+    <resource label="Rechnen in den Geistes- und Sozialwissenschaften" restype=":Replik" id="titel21" permissions="res-default">
         <text-prop name=":titel">
             <text permissions="prop-default" encoding="utf8">Rechnen in den Geistes- und Sozialwissenschaften</text>
         </text-prop>
@@ -1246,7 +1251,8 @@
             <date permissions="prop-default">GREGORIAN:CE:2020-10-30:CE:2020-10-30</date>
         </date-prop>
         <text-prop name=":link">
-            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/rechnenindengeistesundsozialwissenschaften</text>
+            <text permissions="prop-default" encoding="utf8">http://www.cache.ch/blog/rechnenindengeistesundsozialwissenschaften
+            </text>
         </text-prop>
         <resptr-prop name=":hat_datei">
             <resptr permissions="prop-default">file_43</resptr>
